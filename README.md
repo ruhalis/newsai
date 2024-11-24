@@ -1,2 +1,3 @@
-# newsai
-newsai
+# oneline
+Converts text to one sentence
+
